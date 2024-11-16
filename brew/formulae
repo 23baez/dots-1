@@ -1,0 +1,12 @@
+gcc
+git
+node		
+postgresql@14	
+utf8proc
+openssl@3
+wget
+gh
+htop
+ncurses
+tmux
+xz
