@@ -1,3 +1,10 @@
+nginx
+qemu
+docker
+kubernetes-cli
+jq
+tree
+fzf
 gcc
 git
 node		
